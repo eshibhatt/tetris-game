@@ -1,13 +1,7 @@
 ## Welcome to awesome game of Tetris
 
 A project based learning activity for people who are getting started with Git and GitHub.
-You can play the game at: https://eshibhatt.github.io/github-games/
-To play the game:
-1. Go to the **Settings** tab of this repository.
-1. Scroll down to the section titled _GitHub Pages_
-1. Select **main** from the Source drop-down.
-1. Click **Save**.
-1. Navigate to the URL provided in the same section.
+You can play the game at: https://eshibhatt.github.io/tetris-game/
 
 ### Instructions for playing the game
 
@@ -17,6 +11,13 @@ To play the game:
 4. The goal is to create complete rows with no empty spaces.
 5. When completed, the rows will disappear.
 6. To pause the game, just press the space bar again.
+
+To play the game:
+1. Go to the **Settings** tab of this repository.
+1. Scroll down to the section titled _GitHub Pages_
+1. Select **main** from the Source drop-down.
+1. Click **Save**.
+1. Navigate to the URL provided in the same section.
 
 >> _*SUPPORTED BROWSERS*: Chrome, Firefox, Safari, Opera and IE9+_
 
